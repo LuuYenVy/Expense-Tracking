@@ -15,6 +15,8 @@ The **Expense Tracker App** is a simple and intuitive mobile application built w
 ## Technical Highlights:
 - **Built with Flutter:**  
   - Leveraging its powerful widget-based architecture.
+- **Local Database (SQLite):**  
+  - Implemented persistent storage using SQLite (sqflite) to save and manage expense data locally.
 - **ListView Integration:**  
   - For displaying expense records in a structured way.
 - **DatePicker:**  
@@ -23,6 +25,7 @@ The **Expense Tracker App** is a simple and intuitive mobile application built w
   - Ensuring a consistent and user-friendly experience.
 - **Enhanced Interactivity:**  
   - Utilized dismissible widgets, dropdown menus, and snackbars.
+    
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58fc41dc-c9d5-4871-9d73-d7eee3684521" alt="Light Mode" width="45%">
   <img src="https://github.com/user-attachments/assets/25657b03-78df-4f82-bd4f-4c3c4d42de96" alt="Dark Mode" width="45%">
