@@ -25,6 +25,6 @@ The **Expense Tracker App** is a simple and intuitive mobile application built w
   - Utilized dismissible widgets, dropdown menus, and snackbars.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58fc41dc-c9d5-4871-9d73-d7eee3684521" alt="Light Mode" width="45%">
-  <img src="https://github.com/user-attachments/assets/1eb9d57b-1933-494f-aaae-7c4124f96cd7" alt="Dark Mode" width="45%">
+  <img src="https://github.com/user-attachments/assets/25657b03-78df-4f82-bd4f-4c3c4d42de96" alt="Dark Mode" width="45%">
 </p>
 <p align="center"><i>Dark mode and Light mode</i></p>
